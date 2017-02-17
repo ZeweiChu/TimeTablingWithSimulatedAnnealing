@@ -1,0 +1,200 @@
+course1	Course1
+session1	staff21	LECTURE
+session2	staff21	LECTURE
+
+course2	Course2
+session3	staff19	LECTURE
+session4	staff19	LAB
+
+course3	Course3
+session5	staff7	LECTURE
+session6	staff24	LAB
+
+course4	Course4
+session7	staff14	LECTURE
+session8	staff14	LECTURE
+
+course5	Course5
+session9	staff13	LECTURE
+session10	staff7	LAB
+
+course6	Course6
+session11	staff9	LECTURE
+session12	staff9	LECTURE
+
+course7	Course7
+session13	staff8	LECTURE
+session14	staff9	LAB
+
+course8	Course8
+session15	staff3	LECTURE
+session16	staff3	LECTURE
+
+course9	Course9
+session17	staff23	LECTURE
+session18	staff17	LAB
+
+course10	Course10
+session19	staff9	LECTURE
+session20	staff9	LECTURE
+
+course11	Course11
+session21	staff9	LECTURE
+session22	staff9	LECTURE
+
+course12	Course12
+session23	staff11	LECTURE
+session24	staff5	LAB
+
+course13	Course13
+session25	staff17	LECTURE
+session26	staff17	LECTURE
+
+course14	Course14
+session27	staff17	LECTURE
+session28	staff15	LAB
+
+course15	Course15
+session29	staff4	LECTURE
+session30	staff4	LECTURE
+
+course16	Course16
+session31	staff21	LECTURE
+session32	staff21	LECTURE
+
+course17	Course17
+session33	staff10	LECTURE
+session34	staff10	LECTURE
+
+course18	Course18
+session35	staff2	LECTURE
+session36	staff2	LECTURE
+
+course19	Course19
+session37	staff5	LECTURE
+session38	staff5	LECTURE
+
+course20	Course20
+session39	staff8	LECTURE
+session40	staff8	LECTURE
+
+course21	Course21
+session41	staff1	LECTURE
+session42	staff1	LECTURE
+
+course22	Course22
+session43	staff22	LECTURE
+session44	staff12	LAB
+
+course23	Course23
+session45	staff1	LECTURE
+session46	staff10	LAB
+
+course24	Course24
+session47	staff4	LECTURE
+session48	staff4	LECTURE
+
+course25	Course25
+session49	staff13	LECTURE
+session50	staff13	LECTURE
+
+course26	Course26
+session51	staff7	LECTURE
+session52	staff7	LECTURE
+
+course27	Course27
+session53	staff12	LECTURE
+session54	staff12	LECTURE
+
+course28	Course28
+session55	staff18	LECTURE
+session56	staff18	LECTURE
+
+course29	Course29
+session57	staff9	LECTURE
+session58	staff9	LECTURE
+
+course30	Course30
+session59	staff1	LECTURE
+session60	staff1	LECTURE
+
+course31	Course31
+session61	staff4	LECTURE
+session62	staff4	LAB
+
+course32	Course32
+session63	staff7	LECTURE
+session64	staff7	LECTURE
+
+course33	Course33
+session65	staff18	LECTURE
+session66	staff2	LAB
+
+course34	Course34
+session67	staff22	LECTURE
+session68	staff22	LECTURE
+
+course35	Course35
+session69	staff2	LECTURE
+session70	staff2	LECTURE
+
+course36	Course36
+session71	staff11	LECTURE
+session72	staff11	LECTURE
+
+course37	Course37
+session73	staff18	LECTURE
+session74	staff18	LECTURE
+
+course38	Course38
+session75	staff12	LECTURE
+session76	staff12	LECTURE
+
+course39	Course39
+session77	staff9	LECTURE
+session78	staff9	LECTURE
+
+course40	Course40
+session79	staff3	LECTURE
+session80	staff3	LECTURE
+
+course41	Course41
+session81	staff7	LECTURE
+session82	staff18	LAB
+
+course42	Course42
+session83	staff13	LECTURE
+session84	staff13	LECTURE
+
+course43	Course43
+session85	staff21	LECTURE
+session86	staff21	LECTURE
+
+course44	Course44
+session87	staff5	LECTURE
+session88	staff5	LECTURE
+
+course45	Course45
+session89	staff15	LECTURE
+session90	staff15	LECTURE
+
+course46	Course46
+session91	staff18	LECTURE
+session92	staff18	LECTURE
+
+course47	Course47
+session93	staff12	LECTURE
+session94	staff12	LECTURE
+
+course48	Course48
+session95	staff19	LECTURE
+session96	staff19	LECTURE
+
+course49	Course49
+session97	staff13	LECTURE
+session98	staff13	LECTURE
+
+course50	Course50
+session99	staff21	LECTURE
+session100	staff21	LECTURE
+
